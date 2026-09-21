@@ -1,20 +1,16 @@
 # TwoS
 
-Android TwoS project
+Android project — TwoS application.
 
-## Getting Started
-
-### Prerequisites
+## Requirements
 - Android Studio
-- Android SDK
+- Android SDK 21+
 
-### Installation
-1. Clone the repository
-   ```bash
-   git clone git@github.com:EdisonArteagaLopez/TwoS.git
-   ```
-2. Open the project in Android Studio
-3. Build and run on your device or emulator
+## Installation
+```bash
+git clone git@github.com:EdisonArteagaLopez/TwoS.git
+```
+Open in Android Studio → Build → Run
 
 ## Author
 Edison Arteaga López
